@@ -21,7 +21,7 @@ Windows Services allow tasks to run in the background without user interaction, 
 ### 2. **Database Backup Service**
 - **Description:** Performs scheduled backups of SQL Server databases, saves backup files with timestamps, and logs all operations.
 - **Features:** Automated backups, dynamic configuration via `App.config`, logging, service dependencies, console debug mode.
-- **Documentation:** [FileMonitoring_Documentation.md](./File%20Monitoring%20-%20Windows%20Service%20Project/Docs/FileMonitoring_Documentation.md)
+- **Documentation:** [DatabaseBackup_Documentation.md](./Database%20Backup%20Service%20Project/Docs/DatabaseBackupService_Documentation.md)
 - **Folder:** `DatabaseBackupService`
 ---
 
